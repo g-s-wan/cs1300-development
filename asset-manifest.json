@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.css": "/Development-Final/static/css/main.073c9b0a.css",
-    "main.js": "/Development-Final/static/js/main.390ce567.js",
-    "static/media/logo.svg": "/Development-Final/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Development-Final/static/css/main.877cf910.css",
+    "main.js": "/Development-Final/static/js/main.81854fb2.js",
+    "static/media/Big Man.png": "/Development-Final/static/media/Big Man.135392117a4ba6e32328.png",
+    "static/media/PS5.jpg": "/Development-Final/static/media/PS5.e4ab923b35dfe5e6d8e3.jpg",
+    "static/media/Benny.jpg": "/Development-Final/static/media/Benny.f358e7460870d1358b9f.jpg",
+    "static/media/Pop Tart.jpg": "/Development-Final/static/media/Pop Tart.e38d5c3716076850ebff.jpg",
+    "static/media/Mochi.jpg": "/Development-Final/static/media/Mochi.a8a2bcae07d2be87d55b.jpg",
+    "static/media/Prince.jpg": "/Development-Final/static/media/Prince.e272616a94d7805c8650.jpg",
+    "static/media/Lily.jpg": "/Development-Final/static/media/Lily.da55101c605ffd6356af.jpg",
+    "static/media/Jasmine.jpg": "/Development-Final/static/media/Jasmine.2ea2140b3fed8581fb78.jpg",
+    "static/media/Frogbert.jpg": "/Development-Final/static/media/Frogbert.f640fa4e80ef5ea3995b.jpg",
+    "static/media/Frog-and-Toad.jpg": "/Development-Final/static/media/Frog-and-Toad.ac69b7a2a2e91a8272d7.jpg",
+    "static/media/Socks.jpg": "/Development-Final/static/media/Socks.1cc258444940dec6f0cf.jpg",
+    "static/media/Gamer.jpg": "/Development-Final/static/media/Gamer.1dfa42ab097f4c184085.jpg",
     "index.html": "/Development-Final/index.html",
-    "main.073c9b0a.css.map": "/Development-Final/static/css/main.073c9b0a.css.map",
-    "main.390ce567.js.map": "/Development-Final/static/js/main.390ce567.js.map"
+    "main.877cf910.css.map": "/Development-Final/static/css/main.877cf910.css.map",
+    "main.81854fb2.js.map": "/Development-Final/static/js/main.81854fb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.390ce567.js"
+    "static/css/main.877cf910.css",
+    "static/js/main.81854fb2.js"
   ]
 }
