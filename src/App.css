@@ -1,0 +1,35 @@
+body {
+  background-color: #b6de9e;
+}
+
+.left-col {
+  width: 60%;
+  display: inline-block;
+  margin: 2px 3%;
+}
+
+.right-col {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 2px;
+  position: sticky;
+  top: 2px;
+}
+
+.frog-div {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 40%;
+  display: inline-block;
+  margin-right: 50px;
+  vertical-align: top;
+}
+
+.party-item {
+  margin-bottom: 30px;
+}
+
+.party-title {
+  margin-bottom: 10px;
+}
